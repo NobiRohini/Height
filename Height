@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	int height=10;
+	int Height=20;
+	printf("%d\n",height);
+	printf("%d",Height);
+}
